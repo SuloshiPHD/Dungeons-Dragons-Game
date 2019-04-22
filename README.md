@@ -299,5 +299,8 @@ DOWHILE (Choice==r)
 
 END
 
+CourseWork 2:
+Implement a character generator for the Dungeons and Dragons. The Program should ask for a game level, character name, character class and method to generate attributes. The attributes are str, dex, con, int, wis, cha. The user has 4 options to generate attributes. Analysis part clearly describes about them. The bonus is calculated for each attribute. Then program should calculate hit points, skill-points, Base Attack Bonus, Combat bonus, Damage bonus for each class. It should ask and accept a character name.
+
 
 
